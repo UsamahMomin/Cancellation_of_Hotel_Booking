@@ -1,0 +1,27 @@
+PROBLEM STATEMENT :-
+
+1) Perform Data Cleaning and prepare your data for Modelling Purpose.
+
+2) Where do the guests come from?
+
+3) How much do guests pay for a Night?
+
+4) How does the price per night vary over the years?
+
+5) Which are the most busy month or in which months Guests are high?
+
+6) How long do people stay at the Hotels?
+
+7) Selecting important features using Co-relation for Machine Learning.
+
+8) Extract derived features from Data.
+
+9) Apply feature encoding on data.
+
+10) How to handle outliers.
+
+11) Apply techniques of feature importance on data to select most Important features.
+
+12) Applying Machine Learning Algorithm.
+
+13) Cross validate your model.
